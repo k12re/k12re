@@ -1,10 +1,6 @@
-### Hi there 👋
+<span>### Hi there 👋
 ### I'm Ken Thore
 
-
-<picture>
-  <img alt="8-bit dancing man" src="https://tenor.com/en-GB/view/8bit-dance-dancing-gif-4877113.gif" width="25%">
-</picture>
 
 ___
 
@@ -14,6 +10,14 @@ ___
 - 🎮 Games
 - 🎧 And music
 - 🎨 Among other things
+
+
+<picture>
+  <img alt="8-bit dancing man" src="https://tenor.com/en-GB/view/8bit-dance-dancing-gif-4877113.gif" width="25%">
+</picture>
+
+
+</span>
 
 ### Currently learning
 ---
