@@ -4,17 +4,17 @@
 
 ___
 
-
+<div>
 <span>
 
-<div>
+
 - 🌱 I’m currently learning frontend development
 - 💼 I am studying a vocational degree in frontend development
 - 💻 I like computers
 - 🎮 Games
 - 🎧 And music
 - 🎨 Among other things
-</div>
+
 
 <picture>
   <img alt="8-bit dancing man" src="https://tenor.com/en-GB/view/8bit-dance-dancing-gif-4877113.gif" width="50%">
@@ -22,6 +22,7 @@ ___
 
 
 </span>
+</div>
 
 ### Currently learning
 ---
