@@ -1,8 +1,12 @@
 ### Hi there 👋
 ### I'm Ken Thore
 
-<span>
+
 ___
+
+
+<span>
+
 
 - 🌱 I’m currently learning frontend development
 - 💼 I am studying a vocational degree in frontend development
