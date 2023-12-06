@@ -4,8 +4,6 @@
 
 ___
 
-<div>
-<span>
 
 
 - 🌱 I’m currently learning frontend development
@@ -21,8 +19,6 @@ ___
 </picture>
 
 
-</span>
-</div>
 
 ### Currently learning
 ---
