@@ -1,7 +1,7 @@
-<span>### Hi there 👋
+### Hi there 👋
 ### I'm Ken Thore
 
-
+<span>
 ___
 
 - 🌱 I’m currently learning frontend development
