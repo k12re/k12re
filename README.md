@@ -11,8 +11,8 @@ ___
 
 
 
-- 🌱 I’m currently learning frontend development
-- 💼 I am studying a vocational degree in frontend development
+- 🌱 Improving my skills in frontend development.. 
+- 💼 Higher vocational degree in frontend development
 - 💻 I like computers
 - 🎮 Games
 - 🎧 And music
